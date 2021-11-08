@@ -78,15 +78,7 @@ for(var i = 0; i <= largest; i++){
 console.log(largest); */
 
 // Answer 9 //
-/* var A = [24, 53, 78, 91, 12];
-var smallest = 0;
-
- for(var i = 0; i >= smallest; i++){
-    if(A[i] < smallest){
-        smallest = A[i];
-    }
-}
-console.log(smallest);  */
+// sir yeh samajh nhi aa rha pleae class mai krwa dijiye ga.
 
 // Answer 10 //
 /* var num = 5;
